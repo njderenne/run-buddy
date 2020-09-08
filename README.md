@@ -13,4 +13,4 @@ https://njderenne.github.io/run-buddy/
 ## Contribution
 Made with ❤️ by Nate Derenne
 
-# Run Buddy, Inc 
+### ©️2019 Run Buddy, Inc
