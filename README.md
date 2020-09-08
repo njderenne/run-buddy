@@ -8,8 +8,7 @@ A website that offers fitness training services.
 * CSS
 
 ## Website
-https://https://njderenne.github.io/run-buddy/
+https://njderenne.github.io/run-buddy/
 
 ## Contribution
-
 Made with ❤️ by Nate Derenne
